@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvPo4bim", "AtvPo4bim\AtvPo4bim.csproj", "{0FE19DEC-7209-446C-A0FF-DC1040090285}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Telas", "Telas", "{0A842E5A-53F2-47C4-9C2D-22D8AC004D1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes", "Classes", "{6D7CA986-E13F-4B99-B28D-D8101E0E02B2}"
+	ProjectSection(SolutionItems) = preProject
+		validacoesfun.cs = validacoesfun.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE19DEC-7209-446C-A0FF-DC1040090285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE19DEC-7209-446C-A0FF-DC1040090285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE19DEC-7209-446C-A0FF-DC1040090285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE19DEC-7209-446C-A0FF-DC1040090285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FE19DEC-7209-446C-A0FF-DC1040090285} = {0A842E5A-53F2-47C4-9C2D-22D8AC004D1A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5767F913-5903-4967-B9E1-EFF61D3B07C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\bin\Debug\AtvPo4bim.exe.config
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\bin\Debug\AtvPo4bim.exe
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\bin\Debug\AtvPo4bim.pdb
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.csproj.AssemblyReference.cache
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.Form1.resources
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.Properties.Resources.resources
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.csproj.GenerateResource.cache
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.exe
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.pdb
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.TelaListaFun.resources
+C:\Users\bianc\source\repos\AtvPo4bim\AtvPo4bim\obj\Debug\AtvPo4bim.Telacdfun.resources
